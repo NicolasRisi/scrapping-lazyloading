@@ -1,3 +1,10 @@
+# Website with Lazy Loading
+
+Initially created by :
+[https://github.com/twobin/react-lazyload](https://github.com/twobin/react-lazyload)
+
+Demo : [https://nicolasrisi.github.io/scrapping-lazyloading/](https://nicolasrisi.github.io/scrapping-lazyloading/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
